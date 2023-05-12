@@ -45,9 +45,9 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="head-container">
-          <div className="logo">
+          {/* <div className="logo">
             <img src={icon} alt="icon" />
-          </div>
+          </div> */}
           <div className="menu-responsive">
             <div className="menu-responsive-btn" onClick={() => onActiveNav()}>
               <img src={menuIcons} alt="menu-icon" />
@@ -69,7 +69,7 @@ const Navbar = () => {
               <li>
                 <a href="/practices">Amaliyotlar</a>
               </li>
-              <li>
+              {/* <li>
                 <span onClick={() => setIsDropDown(!isDropDown)}>
                   Testlar{" "}
                   <FontAwesomeIcon
@@ -91,10 +91,10 @@ const Navbar = () => {
                     </li>
                   </ul>
                 </div>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <a href="/sign-in">Ro'yhatdan o'tish</a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
