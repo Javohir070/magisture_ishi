@@ -14,7 +14,7 @@ function OurPlans() {
             planCardData.map((item, index) => {
               return (
                 <div
-                  className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12"
+                  className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12"
                   key={index}
                 >
                     <PlanCard planData={item} />

@@ -64,10 +64,10 @@ const Navbar = () => {
                 <a href="/">Bosh sahifa</a>
               </li>
               <li>
-                <a href="/lectures">Ma'ruzalar</a>
+                <a href="/lectures">Ijtimoiy</a>
               </li>
               <li>
-                <a href="/practices">Amaliyotlar</a>
+                <a href="/practices">Iqtisodiy</a>
               </li>
               {/* <li>
                 <span onClick={() => setIsDropDown(!isDropDown)}>
