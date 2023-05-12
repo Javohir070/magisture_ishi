@@ -14,12 +14,12 @@ function Fouter() {
           <div className="row">
             <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-12 foot-first-col">
               <div className="foot-first">
-                <img
+                {/* <img
                   src={
                     "https://cspi.uz/storage/app/uploads/public/984/770/56a/thumb__300_300_0_0_crop.png"
                   }
                   alt={"Logo"}
-                />
+                /> */}
                 <p>Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti.</p>
                 <p>Toshkent 100084, Amir Temur shox ko'chasi 108 uy</p>
                 <ul>
