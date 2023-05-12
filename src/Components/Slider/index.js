@@ -66,7 +66,7 @@ function MainBanner() {
                   <p data-swiper-parallax="-50%">
                     Yaxshi bo'lish uchun yaxshi ta'lim
                   </p>
-                  <h3 data-swiper-parallax="-40%">CHDPU ga xush kelibsiz!</h3>
+                  <h3 data-swiper-parallax="-40%">TUIT ga xush kelibsiz!</h3>
                   <p data-swiper-parallax="-30%">
                     Aralash ta’lim texnologiyasi – o’quv jarayoni samaradorligi
                     asosi
@@ -86,7 +86,7 @@ function MainBanner() {
                   <p data-swiper-parallax="-50%">
                     Yaxshi bo'lish uchun yaxshi ta'lim
                   </p>
-                  <h3 data-swiper-parallax="-40%">CHDPU ga xush kelibsiz!</h3>
+                  <h3 data-swiper-parallax="-40%">TUIT ga xush kelibsiz!</h3>
                   <p data-swiper-parallax="-30%">
                     Aralash ta’lim texnologiyasi – o’quv jarayoni samaradorligi
                     asosi
@@ -106,7 +106,7 @@ function MainBanner() {
                   <p data-swiper-parallax="-50%">
                     Yaxshi bo'lish uchun yaxshi ta'lim
                   </p>
-                  <h3 data-swiper-parallax="-40%">CHDPU ga xush kelibsiz!</h3>
+                  <h3 data-swiper-parallax="-40%">TUIT ga xush kelibsiz!</h3>
                   <p data-swiper-parallax="-30%">
                     Aralash ta’lim texnologiyasi – o’quv jarayoni samaradorligi
                     asosi

@@ -20,8 +20,8 @@ function Fouter() {
                   }
                   alt={"Logo"}
                 />
-                <p>Chirchiq davlat pedagogika universiteti web sayti.</p>
-                <p>Chirchiq shahri, Amir Temur ko'chasi 104 uy</p>
+                <p>Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti.</p>
+                <p>Toshkent 100084, Amir Temur shox ko'chasi 108 uy</p>
                 <ul>
                   <li>
                     <FontAwesomeIcon icon={faPhone} className="foot-icons" />
@@ -29,7 +29,7 @@ function Fouter() {
                   </li>
                   <li>
                     <FontAwesomeIcon icon={faEnvelope} className="foot-icons" />
-                    tvchdpi@edu.uz
+                    info@tuit.uz
                   </li>
                 </ul>
                 <ul>
@@ -61,28 +61,28 @@ function Fouter() {
                 <h4>Foydali havolalar</h4>
                 <ul>
                   <li>
-                    <a href="https://www.cspi.uz/">Bosh sahifa</a>
+                    <a href="#">Bosh sahifa</a>
                   </li>
                   <li>
-                    <a href="https://www.cspi.uz/barcha-yangiliklar">
+                    <a href="#">
                       Biz haqimizda
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.cspi.uz/fakultetlar-detal-sahifasi/matematika-va-informatika-fakulteti">
+                    <a href="#">
                       Bizning Rasmlar
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.cspi.uz/otm-tarixi">
+                    <a href="#">
                       O'qituvchilarimiz
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.cspi.uz/otm-reytingi">Natijalarimiz</a>
+                    <a href="#">Natijalarimiz</a>
                   </li>
                   <li>
-                    <a href="https://www.cspi.uz/qayta-loqa">Bog'lanish</a>
+                    <a href="#">Bog'lanish</a>
                   </li>
                 </ul>
               </div>
